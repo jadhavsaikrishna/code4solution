@@ -1,0 +1,86 @@
+
+html {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card {
+  width: 18rem;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
+.bg-primary {
+  background-color: #25274d !important;
+}
+
+.border-primary {
+  border-color: #25274d !important;
+}
+
+.bg-secondary {
+  background-color: #254d37 !important;
+}
+
+.border-secondary {
+  border-color: #254d37 !important;
+}
+
+.good-border {
+  border-radius: 24px;
+}
+
+.img-1 {
+  background-image: url('./public/code1.jfif');
+}
+
+.img-2 {
+  background: url('./public/code2.jfif');
+}
+
+.profile-1 {
+  background-image: url('./public/profile-1.jpg');
+}
+
+.html{
+  width: 20px;
+  padding: 40px;
+}
+div {  
+width: auto;  
+text-align: center;  
+padding: 15px;  
+border: 3px solid red;  
+}  
+img {  
+max-width: 100%;  
+height: auto;  
+}  
+
+body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  font-family:sans-serif;
+  background-color:#262626
+  
+}
+.avatar2{
+  height: 10px;
+  width: 10px;
+}
